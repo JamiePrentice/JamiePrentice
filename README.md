@@ -1,4 +1,4 @@
-![Nyan](https://i.imgur.com/WGDXaCA.gif)
+![Nyan](https://i.imgur.com/UKl3hMH.gif)
 
 <!--
 **JamiePrentice/JamiePrentice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
